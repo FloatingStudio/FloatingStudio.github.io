@@ -1,0 +1,17 @@
+body {
+  margin: 100px auto;
+}
+
+p, img {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+
+}
